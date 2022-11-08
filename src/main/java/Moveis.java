@@ -1,2 +1,2 @@
-public class Moveis {
+public class Moveis extends Anuncios{
 }

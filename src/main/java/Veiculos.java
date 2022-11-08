@@ -1,2 +1,2 @@
-public class Veiculos {
+public class Veiculos extends Anuncios{
 }
