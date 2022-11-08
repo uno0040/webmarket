@@ -21,4 +21,8 @@ public class Conta {
     public void setEmail(String email) {
         this.email = email;
     }
+
+    public void criaConta() {
+
+    }
 }
