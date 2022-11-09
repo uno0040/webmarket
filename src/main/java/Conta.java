@@ -1,4 +1,4 @@
-public class Conta {
+public class Conta extends Contas{
     private String senha = "";
     private double saldo = 0;
     private String email = "";

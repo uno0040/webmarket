@@ -4,15 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca6d6dda-1cdf-4b01-973c-07b366d0920f" name="Changes" comment="hum">
+    <list default="true" id="ca6d6dda-1cdf-4b01-973c-07b366d0920f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Anuncio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Contas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Anuncios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Anuncios.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Conta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Eletronicos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Eletronicos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Eletronicos.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Geratriz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Geratriz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Moveis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Moveis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Veiculos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Veiculos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Moveis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Veiculos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ContaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ContaTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667948310284</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="hum">
+      <created>1667951926292</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667951926292</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -165,6 +174,7 @@
     <MESSAGE value="inicio do fim" />
     <MESSAGE value="m" />
     <MESSAGE value="ma" />
-    <option name="LAST_COMMIT_MESSAGE" value="ma" />
+    <MESSAGE value="hum" />
+    <option name="LAST_COMMIT_MESSAGE" value="hum" />
   </component>
 </project>
