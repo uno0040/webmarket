@@ -16,7 +16,7 @@
 }
 </style>
 <center>
-<h2>Bem vindo simplesmente ao melhor site q tem irmao!</h2>
+<h2>Teste do site de anuncio</h2>
 </center>
 <hr size="1" width="95%" color="black">
 <div class="grid-container">

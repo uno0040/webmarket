@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca6d6dda-1cdf-4b01-973c-07b366d0920f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Anuncio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Contas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Anuncios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Anuncios.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Conta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Eletronicos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Geratriz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Geratriz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Moveis.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Veiculos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ContaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ContaTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="ca6d6dda-1cdf-4b01-973c-07b366d0920f" name="Changes" comment="hum" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,7 +89,7 @@
       <option name="tomcatInfo">
         <TomcatInfo>
           <option name="name" value="Apache Tomcat/9.0.65" />
-          <option name="path" value="C:/Program Files/Tomcat/apache-tomcat-9.0.65" />
+          <option name="path" value="$PROJECT_DIR$/../../Program Files/Tomcat/apache-tomcat-9.0.65" />
           <option name="version" value="9.0.65.0" />
         </TomcatInfo>
       </option>
